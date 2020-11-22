@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+![15-minute-cron](https://github.com/takemdarlington/nextjs/workflows/15-minute-cron/badge.svg)
+
 ## Getting Started
 
 First, run the development server:
